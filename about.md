@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Research and educational network operated by [Christian Elsen](https://chris.elsen.net). 
+Research and educational network operated by [Christian Elsen](https://chris.elsen.xyz). 
 
 ### More Information
 
