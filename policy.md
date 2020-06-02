@@ -33,6 +33,6 @@ AS213151 originates the following prefixes:
 No explicit SLA is guaranteed. This network operates on a best-effort basis.
 
 ## Want to peer?
-Great! Send a mail to peering@as213151.net.
+Great! Send a mail to [peering@as213151.net](mailto:peering@as213151.net).
 Include your ASN, your prefix limit count and your preferred peering location.
 
