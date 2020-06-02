@@ -17,11 +17,12 @@ avatar: https://avatars3.githubusercontent.com/u/66325659?s=400&u=c0c27a46ebaefd
 
 # Includes an icon in the footer for each username you enter
 footer-links:
+  url: https://www.as213151.net 
   dribbble:
   email:
   facebook:
   flickr:
-  github: https://github.com/AS213151/
+  github: AS213151/
   instagram:
   linkedin:
   pinterest:
@@ -41,7 +42,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://chris.elsen.xyz
+url: https://www.as213151.net
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
