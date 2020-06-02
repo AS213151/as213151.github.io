@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Research and educational network operated by [Christian Elsen](https://chris.elsen.net). 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+[PeeringDB](https://as213151.peeringdb.com/)
+[RIPEstat](https://stat.ripe.net/AS213151)
+[HE BGP](https://bgp.he.net/AS213151/)
 
-### Contact me
+### Contact
 
-[email@domain.com](mailto:email@domain.com)
+[abuse@as213151.net](mailto:abuse@as213151.net)
+[noc@as213151.net](mailto:noc@as213151.net)
