@@ -8,7 +8,10 @@ AS213151 maintains an open peering policy, signed formal agreements are not requ
 
 ## Interfaces
 
-Only remote peerings via WireGuard tunnels are currently available.
+Peerings are possible at:
+- [4b42 - Zurich, CH](https://www.peeringdb.com/ix/2447)
+
+Remote peerings via WireGuard or VXLAN tunnels are also available.
 
 ## Costs
 
