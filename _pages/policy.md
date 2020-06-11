@@ -9,7 +9,9 @@ AS213151 maintains an open peering policy, signed formal agreements are not requ
 ## Interfaces
 
 Peerings are possible at:
+- [KleyRex - Frankfurt, DE](https://www.peeringdb.com/ix/123)
 - [4b42 - Zurich, CH](https://www.peeringdb.com/ix/2447)
+- [EVIX - Amsterdam, NL](https://www.peeringdb.com/ix/2274)
 
 Remote peerings via WireGuard or VXLAN tunnels are also available.
 
