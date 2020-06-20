@@ -21,7 +21,7 @@ Remote peerings via WireGuard or VXLAN tunnels are also available.
 Peerings with AS213151 is cost-neutral for both parties.
 
 ## Routing & Filtering
-- Incoming routes are filtered against IRR (RIPE, APNIC, RADB, etc.)
+- Incoming routes are filtered against IRR (RIPE, APNIC, RADB, etc.) and RPKI
 - Peers must not announce private address space (RFC1918, RFC4193)
 - Peers must not announce private ASNs
 - Peers must not configure static or default routes to our routers
