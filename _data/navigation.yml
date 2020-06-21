@@ -1,8 +1,12 @@
+- title: Home
+  url: /
+
 - title: About
   url: /about
   sublinks:
     - title: Team
       url: /team
+
 - title: Network
   url: /network
   sublinks:
