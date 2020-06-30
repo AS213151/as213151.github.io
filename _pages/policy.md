@@ -31,9 +31,9 @@ Peerings with AS213151 is cost-neutral for both parties.
 
 ## Prefixes
 AS213151 originates the following prefixes:
-- 2a06:e881:7300::/40
-- 2001:678:1e8::/48
-- 45.133.178.0/24
+- [2a06:e881:7300::/40](https://stat.ripe.net/2a06:e881:7300::/40)
+- [2001:678:1e8::/48](https://stat.ripe.net/2001:678:1e8::/48)
+- [45.133.178.0/24](https://stat.ripe.net/45.133.178.0/24)
 
 ## SLA
 No explicit SLA is guaranteed. This network operates on a best-effort basis.
