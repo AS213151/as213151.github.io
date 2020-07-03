@@ -8,9 +8,9 @@ Research and educational network operated by [Christian Elsen](https://chris.els
 
 ### Imprint
 
-Christian Elsen
-Mittelstrasse 6
-56814 Ernst
+Christian Elsen<br>
+Mittelstrasse 6<br>
+56814 Ernst<br>
 Germany
 
 ### Contact
