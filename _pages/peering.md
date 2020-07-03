@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Peering
-permalink: /policy/
+permalink: /peering/
 ---
 
 ## Policy
