@@ -22,7 +22,6 @@ AS213151 practices an open peering policy which means that we peer with everyone
 Peerings are possible at the following points of presence:
 - [KleyRex - Frankfurt, DE](https://www.peeringdb.com/ix/123)
 - [LocIX - Frankfurt, DE](https://www.peeringdb.com/ix/2084)
-- [EVIX - Amsterdam, NL](https://www.peeringdb.com/ix/2274)
 
 ## Costs
 
