@@ -9,13 +9,13 @@ permalink: /peering/
 AS213151 practices an open peering policy which means that we peer with everyone who wants to peer with us. While we do not require any kind of written contract, you must follow these rules:
 
 - Peers may only send traffic from their own and downstream networks to us.
-- Peers may only send traffic to destinations announced by AS21315
-- Peers must not configure static or default routes to our routers
+- Peers may only send traffic to destinations announced by AS213151.
+- Peers must not configure static or default routes to our routers.
 - Peers must operate a Network Operations Center (NOC) reachable by email.
 - Peers must keep their IRR and registry data up to date at any time.
 - Peers shall enforce a strict routing policy to avoid route leaks.
 - Peers shall aggregate their routes to avoid routing table inflation.
-- Peers should cooperate in any case of abuse
+- Peers should cooperate in any case of abuse.
 
 ## Interfaces
 
