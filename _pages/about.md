@@ -8,10 +8,11 @@ Research and educational network operated by [Christian Elsen](https://chris.els
 
 ### Imprint
 
-Christian Elsen<br>
-Mittelstrasse 6<br>
-56814 Ernst<br>
-Germany
+AS213151 LLC<br>
+30 N Gould St<br>
+Ste R<br>
+Sheridan, WY 82801<br>
+USA
 
 ### Contact
 
