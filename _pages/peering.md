@@ -20,6 +20,7 @@ AS213151 practices an open peering policy which means that we peer with everyone
 ## Interfaces
 
 Peerings are possible at the following points of presence:
+- [DE-CIX Frankfurt - Frankfurt, DE](https://www.peeringdb.com/ix/31)
 - [KleyRex - Frankfurt, DE](https://www.peeringdb.com/ix/123)
 - [LocIX - Frankfurt, DE](https://www.peeringdb.com/ix/2084)
 
