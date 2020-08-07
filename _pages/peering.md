@@ -26,7 +26,7 @@ Peerings are possible at the following points of presence:
 
 ## Costs
 
-Peerings with AS213151 is cost-neutral for both parties.
+Peering with AS213151 is cost-neutral for both parties.
 
 ## Routing & Filtering
 
