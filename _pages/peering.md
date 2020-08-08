@@ -45,6 +45,7 @@ Please note the following preferences and technical information before entering 
 AS213151 originates the following prefixes:
 - [2a06:e881:7300::/40](https://stat.ripe.net/2a06:e881:7300::/40)
 - [2001:678:1e8::/48](https://stat.ripe.net/2001:678:1e8::/48)
+- [185.197.135.0/24](https://stat.ripe.net/185.197.135.0/24)
 - [45.133.178.0/24](https://stat.ripe.net/45.133.178.0/24)
 
 ## SLA
