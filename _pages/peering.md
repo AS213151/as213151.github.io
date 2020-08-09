@@ -50,7 +50,7 @@ AS213151 originates the following prefixes:
 
 ## Communities
 
-|Description|Large Community|
+|**Description**|**Large Community**|
 |---|---|
 |**Info: Origin Route**|
 |Originated by AS213151|`213151:100:1`|
