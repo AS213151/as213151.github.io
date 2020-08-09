@@ -48,6 +48,26 @@ AS213151 originates the following prefixes:
 - [185.197.135.0/24](https://stat.ripe.net/185.197.135.0/24)
 - [45.133.178.0/24](https://stat.ripe.net/45.133.178.0/24)
 
+## Communities
+
+|Description|Large Community|
+|-----------|---------------|
+|Info: Origin Route|   |
+|Originated by AS213151|213151:100:1|
+|Info: Transit Route|   |
+|Meerfarbig|213151:200:1|
+|Hurricane Electric|213151:200:2|
+|FreeTransit (Openfactory)|213151:200:3|
+|iFog|213151:200:4|
+|Info: IXP Route|   |
+|DE-CIX Frankfurt|213151:300:1|
+|KleyReX|213151:300:2|
+|LocIX Frankfurt|213151:300:3|
+|Info: Peering Route|   |
+|Hurricane Electric|213151:400:1|
+|Info: Customer Route|   |
+
+
 ## SLA
 No explicit SLA is guaranteed. This network operates on a best-effort basis.
 
