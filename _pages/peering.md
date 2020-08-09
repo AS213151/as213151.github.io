@@ -39,6 +39,7 @@ Please note the following preferences and technical information before entering 
 - Prefixes pointing to well-known bogon addresses will be filtered.
 - Prefixes with invalid NEXT_HOP attribute will be filtered.
 - We strongly encourage MD5 authentication for additional security.
+- We support usage of the GRACEFUL_SHUTDOWN community.
 - We configure an individual prefix limit for all peering sessions.
 
 ## Prefixes
