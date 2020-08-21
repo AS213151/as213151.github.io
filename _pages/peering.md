@@ -66,6 +66,7 @@ AS213151 originates the following prefixes:
 |LocIX Frankfurt|`213151:300:3`|
 |**Info: Peering Route**|
 |Hurricane Electric|`213151:400:1`|
+|DFN|`213151:400:2`|
 |**Info: Customer Route**|
 |RIPE RIS|`213151:500:1`|
 |Isolario Project|`213151:500:2`|
