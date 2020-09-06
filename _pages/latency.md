@@ -12,7 +12,7 @@ permalink: /latency/
     initTracemon(
         '#place-here',
         {}, // Tool options, see table below for more info
-        { measurements:[27019379], defaultNumberOfDisplayedSources:12 } // Query options, see table below for more info
+        { measurements:[27019379], defaultNumberOfDisplayedSources:[12] } // Query options, see table below for more info
         );
 </script>
 
@@ -24,6 +24,6 @@ permalink: /latency/
     initTracemon(
         '#place-here',
         {}, // Tool options, see table below for more info
-        { measurements:[27019380], defaultNumberOfDisplayedSources:12 } // Query options, see table below for more info
+        { measurements:[27019380], defaultNumberOfDisplayedSources:[12] } // Query options, see table below for more info
         );
 </script>
