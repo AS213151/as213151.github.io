@@ -12,6 +12,6 @@ permalink: /latency/ipv4/
     initTracemon(
         '#place-here',
         {}, // Tool options, see table below for more info
-        { measurements:[27019379], defaultNumberOfDisplayedSources:[12] } // Query options, see table below for more info
+        { measurements:[27030746], defaultNumberOfDisplayedSources:[9] } // Query options, see table below for more info
         );
 </script>
