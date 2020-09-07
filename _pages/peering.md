@@ -67,6 +67,7 @@ AS213151 originates the following prefixes:
 |**Info: Peering Route**|
 |Hurricane Electric|`213151:400:1`|
 |DFN|`213151:400:2`|
+|Asympto|`213151:400:3`|
 |**Info: Customer Route**|
 |RIPE RIS|`213151:500:1`|
 |Isolario Project|`213151:500:2`|
