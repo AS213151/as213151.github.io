@@ -42,6 +42,33 @@ Please note the following preferences and technical information before entering 
 - We support usage of the GRACEFUL_SHUTDOWN community.
 - We configure an individual prefix limit for all peering sessions.
 
+### Mutually Agreed Norms for Routing Security (MANRS)
+
+![Logo of MANRS](https://www.manrs.org/wp-content/uploads/2018/03/MANRS_RGB_horizontal_logo_mono_black-300x75.png)
+
+In our efforts to improve Internet routing security, we have joined [MANRS](http://www.manrs.org/), which is a global initiative, supported by the Internet Society, that provides essential fixes to reduce the most common routing threats.
+
+As part of our membership with MANRS, AS213151 commits to adhere to four concrete actions to reduce routing threats:
+
+- Filtering
+- Anti-Spoofing
+- Coordination
+- Global Validation
+
+### Resource Public Key Infrastructure (RPKI)
+
+RPKI is a method to help prevent BGP hijacking and Route Leaks. It uses cryptographic signatures to validate that an ASN is allowed to announce a particular Prefix. 
+
+AS213151 has deployed RPKI Route Validation and Filtering. We reject RPKI Invalids on all BGP Sessions.
+
+|RPKI State|Description|Policy|
+|---|---|---|
+|Valid|Correct IP/masklength from the correct origin AS according to the ROA.|Accept|
+|Unknown|No ROA registered.|Accept|
+|Invalid|Incorrect masklength and/or origin AS according to the registered ROA.|Reject|
+
+AS213151 also maintains valid Route Origination Authorizations (ROA) for all originated prefixes. 
+
 ## Prefixes
 AS213151 originates the following prefixes:
 - [2a06:e881:7300::/40](https://stat.ripe.net/2a06:e881:7300::/40)
