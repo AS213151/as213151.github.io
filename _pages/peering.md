@@ -57,7 +57,7 @@ As part of our membership with MANRS, AS213151 commits to adhere to four concret
 
 ### Resource Public Key Infrastructure (RPKI)
 
-RPKI is a method to help prevent BGP hijacking and Route Leaks. It uses cryptographic signatures to validate that an ASN is allowed to announce a particular Prefix. 
+[RPKI](https://rpki.readthedocs.io/en/latest/) is a method to help prevent BGP hijacking and Route Leaks. It uses cryptographic signatures to validate that an ASN is allowed to announce a particular Prefix. 
 
 AS213151 has deployed RPKI Route Validation and Filtering. We reject RPKI Invalids on all BGP Sessions.
 
