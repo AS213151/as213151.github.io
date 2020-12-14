@@ -44,7 +44,7 @@ Please note the following preferences and technical information before entering 
 
 ### Mutually Agreed Norms for Routing Security (MANRS)
 
-![Logo of MANRS](https://www.manrs.org/wp-content/uploads/2018/03/MANRS_RGB_horizontal_logo_mono_black-300x75.png)
+[![Logo of MANRS](https://www.manrs.org/wp-content/uploads/2018/03/MANRS_RGB_horizontal_logo_mono_black-300x75.png)](http://www.manrs.org/)
 
 In our efforts to improve Internet routing security, we have joined [MANRS](http://www.manrs.org/), which is a global initiative, supported by the Internet Society, that provides essential fixes to reduce the most common routing threats.
 
