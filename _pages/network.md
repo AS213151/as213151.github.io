@@ -9,7 +9,7 @@ permalink: /network/
 - RIPE Atlas Probes
   - [core-de-fra1](https://atlas.ripe.net/probes/1000597/)
   - [core-de-fra2](https://atlas.ripe.net/probes/1000612/)
-- [Status Page](https://status.as213151.net/)
+- [Status Page](https://stats.uptimerobot.com/nLYRfGm1V)
 
 ## More Information
 - [PeeringDB](https://as213151.peeringdb.com/)
