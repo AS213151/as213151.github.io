@@ -96,7 +96,6 @@ AS213151 originates the following prefixes:
 |Asympto|`213151:400:3`|
 |**Info: Customer Route**|
 |RIPE RIS|`213151:500:1`|
-|Isolario Project|`213151:500:2`|
 
 ## SLA
 No explicit SLA is guaranteed. This network operates on a best-effort basis.
