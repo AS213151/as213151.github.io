@@ -82,21 +82,21 @@ AS213151 originates the following prefixes:
 |**Info: Origin Route**|
 |Originated by AS213151|`213151:100:1`|
 |**Info: Transit Route**|
-|Meerfarbig|`213151:200:1`|
-|Hurricane Electric|`213151:200:2`|
-|FreeTransit (Openfactory)|`213151:200:3`|
-|iFog|`213151:200:4`|
+|[Hurricane Electric](https://www.peeringdb.com/asn/6939)|`213151:200:6939`|
+|[Meerfarbig](https://www.peeringdb.com/asn/34549)|`213151:200:34549`|
+|[FreeTransit (Openfactory)](https://www.peeringdb.com/asn/41051)|`213151:200:41051`|
+|[iFog](https://www.peeringdb.com/asn/34927)|`213151:200:34927`|
 |**Info: IXP Route**|
-|DE-CIX Frankfurt|`213151:300:1`|
-|KleyReX|`213151:300:2`|
-|LocIX Frankfurt|`213151:300:3`|
+|[DE-CIX Frankfurt](https://www.peeringdb.com/ix/31)|`213151:300:6695`|
+|[KleyReX](https://www.peeringdb.com/ix/123)|`213151:300:31142`|
+|[LocIX Frankfurt](https://www.peeringdb.com/ix/2084)|`213151:300:202409`|
 |**Info: Peering Route**|
-|[Hurricane Electric](https://www.peeringdb.com/asn/6939)|`213151:400:1`|
-|[DFN](https://www.peeringdb.com/asn/680)|`213151:400:2`|
-|[Asympto](https://www.peeringdb.com/asn/39533)|`213151:400:3`|
-|[GlobalConnect](https://www.peeringdb.com/asn/12552)|`213151:400:4`|
+|[DFN](https://www.peeringdb.com/asn/680)|`213151:400:680`|
+|[Hurricane Electric](https://www.peeringdb.com/asn/6939)|`213151:400:6939`|
+|[GlobalConnect](https://www.peeringdb.com/asn/12552)|`213151:400:12552`|
+|[Asympto](https://www.peeringdb.com/asn/39533)|`213151:400:39533`|
 |**Info: Customer Route**|
-|RIPE RIS|`213151:500:1`|
+|[RIPE RIS](https://www.peeringdb.com/asn/12654)|`213151:500:12654`|
 
 ## SLA
 No explicit SLA is guaranteed. This network operates on a best-effort basis.
