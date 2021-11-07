@@ -91,9 +91,10 @@ AS213151 originates the following prefixes:
 |KleyReX|`213151:300:2`|
 |LocIX Frankfurt|`213151:300:3`|
 |**Info: Peering Route**|
-|Hurricane Electric|`213151:400:1`|
-|DFN|`213151:400:2`|
-|Asympto|`213151:400:3`|
+|[Hurricane Electric](https://www.peeringdb.com/asn/6939)|`213151:400:1`|
+|[DFN](https://www.peeringdb.com/asn/680)|`213151:400:2`|
+|[Asympto](https://www.peeringdb.com/asn/39533)|`213151:400:3`|
+|[GlobalConnect](https://www.peeringdb.com/asn/12552)|`213151:400:4`|
 |**Info: Customer Route**|
 |RIPE RIS|`213151:500:1`|
 
