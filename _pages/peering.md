@@ -92,6 +92,7 @@ AS213151 originates the following prefixes:
 |[LocIX Frankfurt](https://www.peeringdb.com/ix/2084)|`213151:300:202409`|
 |**Info: Peering Route**|
 |[DFN](https://www.peeringdb.com/asn/680)|`213151:400:680`|
+|[Apple](https://www.peeringdb.com/asn/714)|`213151:400:714`|
 |[Hurricane Electric](https://www.peeringdb.com/asn/6939)|`213151:400:6939`|
 |[GlobalConnect](https://www.peeringdb.com/asn/12552)|`213151:400:12552`|
 |[Asympto](https://www.peeringdb.com/asn/39533)|`213151:400:39533`|
