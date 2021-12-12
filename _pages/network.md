@@ -14,6 +14,7 @@ permalink: /network/
 
 ## Tools
 - [Looking Glass](https://lg.as213151.net)
+- [Route Server](https://rs.as213151.net)
 - [Status Page](https://stats.uptimerobot.com/nLYRfGm1V)
 
 ## More Information
