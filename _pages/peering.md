@@ -95,7 +95,6 @@ AS213151 originates the following prefixes:
 |[Apple](https://www.peeringdb.com/asn/714)|`213151:400:714`|
 |[Hurricane Electric](https://www.peeringdb.com/asn/6939)|`213151:400:6939`|
 |[GlobalConnect](https://www.peeringdb.com/asn/12552)|`213151:400:12552`|
-|[Cloudflare](https://www.peeringdb.com/asn/13335)|`213151:400:13335`|
 |**Info: Customer Route**|
 |[RIPE RIS](https://www.peeringdb.com/asn/12654)|`213151:500:12654`|
 
