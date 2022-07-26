@@ -15,7 +15,7 @@ permalink: /network/
 ## Tools
 - [Looking Glass](https://lg.as213151.net)
 - [Route Server](https://rs.as213151.net)
-- [Status Page](https://https://status.as213151.net/)
+- [Status Page](https://status.as213151.net/)
 
 ## More Information
 - [PeeringDB](https://as213151.peeringdb.com/)
