@@ -71,9 +71,9 @@ AS213151 also maintains valid Route Origination Authorizations (ROA) for all ori
 
 ## Prefixes
 AS213151 originates the following prefixes:
-- [2a06:e881:7300::/40](https://stat.ripe.net/2a06:e881:7300::/40)
-- [2001:678:1e8::/48](https://stat.ripe.net/2001:678:1e8::/48)
-- [185.197.135.0/24](https://stat.ripe.net/185.197.135.0/24)
+- [2a06:e881:7300::/40](https://apps.db.ripe.net/db-web-ui/query?searchtext=2a06:e881:7300::/40)
+- [2001:678:1e8::/48](https://apps.db.ripe.net/db-web-ui/query?searchtext=2001:678:1e8::/48)
+- [185.197.135.0/24](https://apps.db.ripe.net/db-web-ui/query?searchtext=185.197.135.0/24)
 
 ## Communities
 
