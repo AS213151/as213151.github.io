@@ -85,8 +85,8 @@ AS213151 originates the following prefixes:
 |**Info: Transit Route**|
 |[Hurricane Electric](https://www.peeringdb.com/asn/6939)|`213151:200:6939`|
 |[Meerfarbig](https://www.peeringdb.com/asn/34549)|`213151:200:34549`|
-|[FreeTransit (Openfactory)](https://www.peeringdb.com/asn/41051)|`213151:200:41051`|
 |[iFog](https://www.peeringdb.com/asn/34927)|`213151:200:34927`|
+|[FreeTransit (Openfactory)](https://www.peeringdb.com/asn/41051)|`213151:200:41051`|
 |**Info: IXP Route**|
 |[DE-CIX Frankfurt](https://www.peeringdb.com/ix/31)|`213151:300:6695`|
 |[KleyReX](https://www.peeringdb.com/ix/123)|`213151:300:31142`|
@@ -96,6 +96,7 @@ AS213151 originates the following prefixes:
 |[Apple](https://www.peeringdb.com/asn/714)|`213151:400:714`|
 |[Hurricane Electric](https://www.peeringdb.com/asn/6939)|`213151:400:6939`|
 |[GlobalConnect](https://www.peeringdb.com/asn/12552)|`213151:400:12552`|
+|[ISC F-Root FRA1](https://www.peeringdb.com/asn/33082)|`213151:400:33082`|
 |**Info: Customer Route**|
 |[RIPE RIS](https://www.peeringdb.com/asn/12654)|`213151:500:12654`|
 
