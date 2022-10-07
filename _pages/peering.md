@@ -97,6 +97,7 @@ AS213151 originates the following prefixes:
 |[Hurricane Electric](https://www.peeringdb.com/asn/6939)|`213151:400:6939`|
 |[GlobalConnect](https://www.peeringdb.com/asn/12552)|`213151:400:12552`|
 |[ISC F-Root FRA1](https://www.peeringdb.com/asn/33082)|`213151:400:33082`|
+|[JMP Technology Services](https://www.peeringdb.com/asn/61423)|`213151:400:61423`|
 |**Info: Customer Route**|
 |[RIPE RIS](https://www.peeringdb.com/asn/12654)|`213151:500:12654`|
 
