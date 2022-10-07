@@ -35,11 +35,11 @@ Please note the following preferences and technical information before entering 
 - Prefixes are filtered against IRR (RIPE, APNIC, RADB, etc.) and RPKI.
 - Prefixes shorter than a /24 (IPv4) or /48 (IPv6) will be filtered.
 - Prefixes with private or other invalid ASNs in AS_PATH will be filtered.
-- Prefixes with private address space (RFC1918, RFC4193) will be filtered.
+- Prefixes with private address space ([RFC1918](https://www.rfc-editor.org/rfc/rfc1918), [RFC4193](https://www.rfc-editor.org/rfc/rfc4193)) will be filtered.
 - Prefixes pointing to well-known bogon addresses will be filtered.
 - Prefixes with invalid NEXT_HOP attribute will be filtered.
 - We strongly encourage MD5 authentication for additional security.
-- We support usage of the GRACEFUL_SHUTDOWN community.
+- We support usage of the GRACEFUL_SHUTDOWN community ([RFC8326](https://www.rfc-editor.org/rfc/rfc8326)).
 - We configure an individual prefix limit for all peering sessions.
 
 ### Mutually Agreed Norms for Routing Security (MANRS)
