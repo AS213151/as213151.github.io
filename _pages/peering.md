@@ -23,6 +23,8 @@ Peerings are possible at the following points of presence:
 - [DE-CIX Frankfurt - Frankfurt, DE](https://www.peeringdb.com/ix/31)
 - [KleyRex - Frankfurt, DE](https://www.peeringdb.com/ix/123)
 - [LocIX - Frankfurt, DE](https://www.peeringdb.com/ix/2084)
+- [BGP.Exchange - Auckland, NZ](https://www.peeringdb.com/ix/2084)
+- [BGP.Exchange - Zurich, CH](https://www.peeringdb.com/ix/3830)
 
 ## Costs
 
@@ -91,6 +93,8 @@ AS213151 originates the following prefixes:
 |[DE-CIX Frankfurt](https://www.peeringdb.com/ix/31)|`213151:300:6695`|
 |[KleyReX](https://www.peeringdb.com/ix/123)|`213151:300:31142`|
 |[LocIX Frankfurt](https://www.peeringdb.com/ix/2084)|`213151:300:202409`|
+|[BGP.Exchange - Auckland](https://www.peeringdb.com/ix/2084)|`213151:300:24381`|
+|[BGP.Exchange - Zurich](https://www.peeringdb.com/ix/3830)|`213151:301:24381`|
 |**Info: Peering Route**|
 |[DFN](https://www.peeringdb.com/asn/680)|`213151:400:680`|
 |[Apple](https://www.peeringdb.com/asn/714)|`213151:400:714`|
