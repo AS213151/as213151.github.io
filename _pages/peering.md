@@ -96,7 +96,7 @@ AS213151 originates the following prefixes:
 |[LocIX Frankfurt](https://www.peeringdb.com/ix/2084)|`213151:300:202409`|
 |[BGP.Exchange - Auckland](https://www.peeringdb.com/ix/2084)|`213151:300:24381`|
 |[BGP.Exchange - Zurich](https://www.peeringdb.com/ix/3830)|`213151:301:24381`|
-|[BGP.Exchange - D&uuml;sseldorf, DE](https://www.peeringdb.com/ix/3844)|`213151:302:24381`|
+|[BGP.Exchange - D&uuml;sseldorf](https://www.peeringdb.com/ix/3844)|`213151:302:24381`|
 |**Info: Peering Route**|
 |[DFN](https://www.peeringdb.com/asn/680)|`213151:400:680`|
 |[Apple](https://www.peeringdb.com/asn/714)|`213151:400:714`|
