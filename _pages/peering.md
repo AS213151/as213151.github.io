@@ -43,6 +43,7 @@ Please note the following preferences and technical information before entering 
 - Prefixes with invalid NEXT_HOP attribute will be filtered.
 - We strongly encourage MD5 authentication for additional security.
 - We support usage of the GRACEFUL_SHUTDOWN community ([RFC8326](https://www.rfc-editor.org/rfc/rfc8326)).
+- At peering exchanges, peering over route server is encouraged.
 - We configure an individual prefix limit for all peering sessions.
 
 ### Mutually Agreed Norms for Routing Security (MANRS)
