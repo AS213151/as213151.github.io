@@ -36,6 +36,3 @@ permalink: /network/
 - [DE-CIX Frankfurt - Frankfurt, DE](https://www.peeringdb.com/ix/31)
 - [KleyRex - Frankfurt, DE](https://www.peeringdb.com/ix/123)
 - [LocIX - Frankfurt, DE](https://www.peeringdb.com/ix/2084)
-- [BGP.Exchange - Auckland, NZ](https://www.peeringdb.com/ix/2084)
-- [BGP.Exchange - Zurich, CH](https://www.peeringdb.com/ix/3830)
-- [BGP.Exchange - D&uuml;sseldorf, DE](https://www.peeringdb.com/ix/3844)
