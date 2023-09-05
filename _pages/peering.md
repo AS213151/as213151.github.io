@@ -99,6 +99,7 @@ AS213151 originates the following prefixes:
 |[GlobalConnect](https://www.peeringdb.com/asn/12552)|`213151:400:12552`|
 |[Cloudflare](https://www.peeringdb.com/asn/13335)|`213151:400:13335`|
 |[ISC F-Root FRA1](https://www.peeringdb.com/asn/33082)|`213151:400:33082`|
+|[iFog](https://www.peeringdb.com/asn/34927)|`213151:400:34927`|
 |[JMP Technology Services](https://www.peeringdb.com/asn/61423)|`213151:400:61423`|
 |**Info: Customer Route**|
 |[RouteViews](https://www.peeringdb.com/asn/6447)|`213151:500:6447`|
