@@ -102,7 +102,6 @@ AS213151 originates the following prefixes:
 |[iFog](https://www.peeringdb.com/asn/34927)|`213151:400:34927`|
 |[JMP Technology Services](https://www.peeringdb.com/asn/61423)|`213151:400:61423`|
 |**Info: Downstream Route**|
-|[RouteViews](https://www.peeringdb.com/asn/6447)|`213151:500:6447`|
 |[RIPE RIS](https://www.peeringdb.com/asn/12654)|`213151:500:12654`|
 
 ## SLA
