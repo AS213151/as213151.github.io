@@ -15,7 +15,7 @@ permalink: /network/
 ## Tools
 - [Looking Glass](https://lg.as213151.net)
 - [Route Server](https://rs.as213151.net)
-- [Status Page](https://https://status.as213151.net/)
+- [Status Page](https://status.as213151.net/)
 
 ## More Information
 - [PeeringDB](https://as213151.peeringdb.com/)
@@ -24,9 +24,10 @@ permalink: /network/
 - [Geo-feed](https://raw.githubusercontent.com/AS213151/rfc8805-geofeed/main/as213151-geo-ip.txt) in [RFC 8805](https://datatracker.ietf.org/doc/html/rfc8805) Format
 
 ## Prefixes announced
-- [2a06:e881:7300::/40](https://stat.ripe.net/2a06:e881:7300::/40)
-- [2001:678:1e8::/48](https://stat.ripe.net/2001:678:1e8::/48)
-- [185.197.135.0/24](https://stat.ripe.net/185.197.135.0/24)
+- [2a06:e881:7300::/40](https://apps.db.ripe.net/db-web-ui/query?searchtext=2a06:e881:7300::/40)
+- [2001:678:1e8::/48](https://apps.db.ripe.net/db-web-ui/query?searchtext=2001:678:1e8::/48)
+- [2602:fb2a::/40](https://whois.arin.net/rest/net/NET6-2602-FB2A-1)
+- [185.197.135.0/24](https://apps.db.ripe.net/db-web-ui/query?searchtext=185.197.135.0/24)
 
 ## Peering
 - [Peering Policy](/peering/)

@@ -35,11 +35,12 @@ Please note the following preferences and technical information before entering 
 - Prefixes are filtered against IRR (RIPE, APNIC, RADB, etc.) and RPKI.
 - Prefixes shorter than a /24 (IPv4) or /48 (IPv6) will be filtered.
 - Prefixes with private or other invalid ASNs in AS_PATH will be filtered.
-- Prefixes with private address space (RFC1918, RFC4193) will be filtered.
+- Prefixes with private address space ([RFC1918](https://www.rfc-editor.org/rfc/rfc1918), [RFC4193](https://www.rfc-editor.org/rfc/rfc4193)) will be filtered.
 - Prefixes pointing to well-known bogon addresses will be filtered.
 - Prefixes with invalid NEXT_HOP attribute will be filtered.
 - We strongly encourage MD5 authentication for additional security.
-- We support usage of the GRACEFUL_SHUTDOWN community.
+- We support usage of the GRACEFUL_SHUTDOWN community ([RFC8326](https://www.rfc-editor.org/rfc/rfc8326)).
+- At peering exchanges, peering over route server is encouraged.
 - We configure an individual prefix limit for all peering sessions.
 
 ### Mutually Agreed Norms for Routing Security (MANRS)
@@ -71,9 +72,10 @@ AS213151 also maintains valid Route Origination Authorizations (ROA) for all ori
 
 ## Prefixes
 AS213151 originates the following prefixes:
-- [2a06:e881:7300::/40](https://stat.ripe.net/2a06:e881:7300::/40)
-- [2001:678:1e8::/48](https://stat.ripe.net/2001:678:1e8::/48)
-- [185.197.135.0/24](https://stat.ripe.net/185.197.135.0/24)
+- [2a06:e881:7300::/40](https://apps.db.ripe.net/db-web-ui/query?searchtext=2a06:e881:7300::/40)
+- [2001:678:1e8::/48](https://apps.db.ripe.net/db-web-ui/query?searchtext=2001:678:1e8::/48)
+- [2602:fb2a::/40](https://whois.arin.net/rest/net/NET6-2602-FB2A-1)
+- [185.197.135.0/24](https://apps.db.ripe.net/db-web-ui/query?searchtext=185.197.135.0/24)
 
 ## Communities
 
@@ -84,8 +86,8 @@ AS213151 originates the following prefixes:
 |**Info: Transit Route**|
 |[Hurricane Electric](https://www.peeringdb.com/asn/6939)|`213151:200:6939`|
 |[Meerfarbig](https://www.peeringdb.com/asn/34549)|`213151:200:34549`|
-|[FreeTransit (Openfactory)](https://www.peeringdb.com/asn/41051)|`213151:200:41051`|
 |[iFog](https://www.peeringdb.com/asn/34927)|`213151:200:34927`|
+|[FreeTransit (Openfactory)](https://www.peeringdb.com/asn/41051)|`213151:200:41051`|
 |**Info: IXP Route**|
 |[DE-CIX Frankfurt](https://www.peeringdb.com/ix/31)|`213151:300:6695`|
 |[KleyReX](https://www.peeringdb.com/ix/123)|`213151:300:31142`|
@@ -97,7 +99,10 @@ AS213151 originates the following prefixes:
 |[GlobalConnect](https://www.peeringdb.com/asn/12552)|`213151:400:12552`|
 |[Amazon.com](https://www.peeringdb.com/asn/16509)|`213151:400:16509`|
 |[Cloudflare](https://www.peeringdb.com/asn/13335)|`213151:400:13335`|
-|**Info: Customer Route**|
+|[ISC F-Root FRA1](https://www.peeringdb.com/asn/33082)|`213151:400:33082`|
+|[iFog](https://www.peeringdb.com/asn/34927)|`213151:400:34927`|
+|[JMP Technology Services](https://www.peeringdb.com/asn/61423)|`213151:400:61423`|
+|**Info: Downstream Route**|
 |[RIPE RIS](https://www.peeringdb.com/asn/12654)|`213151:500:12654`|
 
 ## SLA
