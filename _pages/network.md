@@ -5,9 +5,9 @@ permalink: /network/
 ---
 
 ## Services
-- [NTP Pool Server](https://www.ntppool.org/)
-  - [ntp1.as213151.net](https://www.ntppool.org/scores/ntp1.as213151.net)
-  - [ntp2.as213151.net](https://www.ntppool.org/scores/ntp2.as213151.net)
+- [NTP Pool Server](https://www.ntppool.org/a/as213151)
+  - ntp1.as213151.net - [Ipv4](https://www.ntppool.org/scores/185.197.135.6), [IPv6](https://www.ntppool.org/scores/2a06:e881:7300:1::123)
+  - ntp2.as213151.net - [Ipv4](https://www.ntppool.org/scores/185.197.135.21), [IPv6](https://www.ntppool.org/scores/2a06:e881:7301:1::123)
 - [RIPE Atlas Probes](https://atlas.ripe.net/)
   - [core-de-fra1](https://atlas.ripe.net/probes/1000597/)
   - [core-de-fra2](https://atlas.ripe.net/probes/1000612/)
