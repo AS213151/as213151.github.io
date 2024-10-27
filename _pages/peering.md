@@ -104,6 +104,7 @@ AS213151 originates the following prefixes:
 |[ISC F-Root FRA1](https://www.peeringdb.com/asn/33082)|`213151:400:33082`|
 |[iFog](https://www.peeringdb.com/asn/34927)|`213151:400:34927`|
 |[TKRZ Stadtwerke](https://www.peeringdb.com/asn/42184)|`213151:400:42184`|
+|[Alibaba Group](https://www.peeringdb.com/asn/45102)|`213151:400:45102`|
 |[JMP Technology Services](https://www.peeringdb.com/asn/61423)|`213151:400:61423`|
 |**Info: Downstream Route**|
 |[RouteViews](https://www.peeringdb.com/asn/6447)|`213151:500:6447`|
