@@ -13,8 +13,6 @@ permalink: /network/
   - [core-de-fra2](https://atlas.ripe.net/probes/1000612/)
 
 ## Tools
-- [Looking Glass](https://lg.as213151.net)
-- [Route Server](https://rs.as213151.net)
 - [Status Page](https://status.as213151.net/)
 
 ## More Information
