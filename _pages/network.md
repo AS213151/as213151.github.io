@@ -21,7 +21,7 @@ permalink: /network/
 - [PeeringDB](https://as213151.peeringdb.com/)
 - [RIPEstat](https://stat.ripe.net/AS213151)
 - [HE BGP](https://bgp.he.net/AS213151/)
-- [Geo-feed](https://raw.githubusercontent.com/AS213151/rfc8805-geofeed/main/as213151-geo-ip.txt) in [RFC 8805](https://datatracker.ietf.org/doc/html/rfc8805) Format
+- [Geo-feed](https://geofeed.as213151.net/geofeed.txt) in [RFC 8805](https://datatracker.ietf.org/doc/html/rfc8805) Format
 
 ## Prefixes announced
 - [2a06:e881:7300::/40](https://apps.db.ripe.net/db-web-ui/query?searchtext=2a06:e881:7300::/40)
